@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-4b",
-      "name": "4b",
+      "id": "0-123",
+      "name": "123",
       "levels": [
         {
           "tileSize": 256,
@@ -16,66 +16,62 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 1500,
+      "faceSize": 1000,
       "initialViewParameters": {
-        "yaw": 0.10757628668554631,
-        "pitch": 0.25791524876872884,
-        "fov": 0.9102706502487995
+        "yaw": 0.5872580439396113,
+        "pitch": 0.006367854178673582,
+        "fov": 1.2480461059535137
       },
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": -1.5416411448957348,
-          "pitch": 0.3762040213729616,
-          "title": "Bed",
-          "text": "Zanotti"
+          "yaw": 1.3844605685522637,
+          "pitch": 0.43293620679473577,
+          "title": "Sofa Tyme",
+          "text": "<a href=\"https://de.mycs.com/produkt/6lQ5kJQbT\">https://de.mycs.com/produkt/6lQ5kJQbT</a>"
         },
         {
-          "yaw": 0.15577972687048813,
-          "pitch": 0.3754874007145208,
-          "title": "Chair",
-          "text": "Vitra"
+          "yaw": 0.6346340962545796,
+          "pitch": 0.7510003928867839,
+          "title": "Eclypse table",
+          "text": "<a href=\"https://de.mycs.com/produkt/2-6MxoC_c\">https://de.mycs.com/produkt/2-6MxoC_c</a>"
         },
         {
-          "yaw": -0.09890604788800417,
-          "pitch": 0.21501030715056402,
-          "title": "Table",
-          "text": "Zampa"
+          "yaw": -0.19589368262062834,
+          "pitch": 0.1962515144857928,
+          "title": "Tymber table",
+          "text": "<a href=\"https://de.mycs.com/produkt/L-fWR0PQ\">https://de.mycs.com/produkt/L-fWR0PQ</a>"
         },
         {
-          "yaw": -2.3326563221856613,
-          "pitch": 0.22087734713135632,
-          "title": "Sideboard",
-          "text": "Leaf"
+          "yaw": -1.597440958159499,
+          "pitch": 0.5158454508070349,
+          "title": "Gryd shelf",
+          "text": "<a href=\"https://de.mycs.com/produkt/H4MFSI5qX\">https://de.mycs.com/produkt/H4MFSI5qX</a>"
         },
         {
-          "yaw": 1.5852679321965724,
-          "pitch": 0.23122315870679522,
-          "title": "Bookshelf",
-          "text": "Ikea"
+          "yaw": 2.329043528880314,
+          "pitch": 0.25056570960539837,
+          "title": "Fyne cushion",
+          "text": "<a href=\"https://de.mycs.com/produkt/T1HVnV7Qf\">https://de.mycs.com/produkt/T1HVnV7Qf</a>"
         },
         {
-          "yaw": 0.8908196509766722,
-          "pitch": 0.39811633106794986,
-          "title": "Armchair",
-          "text": "Muuto"
+          "yaw": 1.9402380812795892,
+          "pitch": 0.21433174902351126,
+          "title": "Fyne cushion",
+          "text": "<a href=\"https://de.mycs.com/produkt/wfEi4Vh00\">https://de.mycs.com/produkt/wfEi4Vh00</a>"
         },
         {
-          "yaw": 0.7202281041559395,
-          "pitch": -0.04539921265181057,
-          "title": "Bike",
-          "text": "Text"
+          "yaw": 0.579775732200309,
+          "pitch": 0.2690238535844536,
+          "title": "Fyne cushion",
+          "text": "<a href=\"https://de.mycs.com/produkt/T1HVnV7Qf\">https://de.mycs.com/produkt/T1HVnV7Qf</a>"
         }
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Interior sample",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
